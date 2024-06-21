@@ -1,0 +1,32 @@
+what is html ?
+ html stands for hypertext markup language
+ html first time released in 1986 by tim berner lee 
+ html is used to create a webiste Home page | web page 
+ html file extension is .html or .htm 
+ html used some tags to provides structures of webpage
+
+ types of tags 
+   a) paired tag 
+       <p></p>  paired tag 
+       
+   b) non-paired tag 
+       <hr> , <br> , <img>, <p> , <input> , <meta> , <link>  etc. 
+
+
+ html structures 
+
+   <!DOCTYPE html>
+   <html>
+   <head>
+   <title></title>
+   <meta>
+   <Link >
+   <style></style>
+   <script></script>
+   <noscript></noscript>
+   </head>
+
+   <body>
+      <h1>About us</h1>
+   </body>
+   </html>
